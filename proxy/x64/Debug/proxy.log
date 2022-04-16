@@ -1,0 +1,20 @@
+﻿  events.cpp
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\events.cpp(383,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\events.cpp(532,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gt.cpp
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  proxy.cpp
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  server.cpp
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DarkStore\Downloads\ProxyV1\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  proxy.vcxproj -> C:\Users\DarkStore\Downloads\ProxyV1\x64\Debug\proxy.exe
