@@ -12,7 +12,7 @@ First, [download](https://visualstudio.microsoft.com/downloads/) Visual Studio `
 
 <h2>Windows</h2>
 
-- Download the file, click to [download](https://github.com/BukanDapa/Proxy/archive/refs/heads/main.zip)
+- Download the file, click to [download](https://github.com/BukanDapa/proxyv2/archive/refs/heads/main.zip)
 - Extrack (`free to extract where`).
 - Open Visual Studio
 - Open file -> proxy.sln
@@ -29,7 +29,7 @@ $pkg install wget
 ```
 - When done, type this
 ```bash
-wget https://github.com/BukanDapa/Proxy
+wget https://github.com/BukanDapa/proxyv2
 ```
 - So now your proxy is installed on your android device
 - But how to operate it?
